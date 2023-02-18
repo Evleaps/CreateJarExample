@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreateJarExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreateJarExample_jar</output-path>
+    <root id="archive" name="CreateJarExample.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/bot-app/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CreateJarExample.bot-app.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.0/1796921c7a3e2e2665a83e6c8d33399336cd39bc/kotlin-stdlib-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.0/f7197e7cc76453ac59f8b0f8d5137cc600becd36/kotlin-stdlib-common-1.8.0.jar" path-in-jar="/" />
+      <element id="library" level="module" name="Gradle: kaptGeneratedClasses" module-name="CreateJarExample.bot-app.main" />
+      <element id="library" level="module" name="Gradle: kaptGeneratedClasses" module-name="CreateJarExample.bot-app.test" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

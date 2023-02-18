@@ -1,0 +1,4 @@
+rootProject.name = 'CreateJarExample'
+include 'bot-app'
+include 'bot-data'
+

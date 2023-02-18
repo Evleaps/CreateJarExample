@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/bot-app/build/
+/bot-app/build/classes/java/main/
+/bot-data/build/
+/bot-data/build/classes/java/main/
+/build/
+/out/
